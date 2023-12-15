@@ -25,3 +25,8 @@ This is a learning repo where we use NodeJS, ExpressJS and packages to automate 
 1. Update the information inside `test_data.json` to send messages to contacts
 1. Browse [here](http://localhost:3000/send-wa-notifications)
 1. This will send WhatsApp messages to numbers mentioned in `test_data.json`
+
+## References
+
+1. [Automated reply with WhatsApp Web JS](https://medium.com/@adybagus/automated-reply-with-whatsapp-web-js-ce0e78d46ef6)
+1. [Automated reply with Whatsapp Web JS + Express JS](https://medium.com/@adybagus/automated-reply-with-whatsapp-web-js-express-js-299eee4e57b1)
