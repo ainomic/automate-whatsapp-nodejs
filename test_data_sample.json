@@ -1,0 +1,7 @@
+[
+  {
+    "name": "{Name}",
+    "number": "{countryCode}{MobileNumber}",
+    "text": "{Message}"
+  }
+]
